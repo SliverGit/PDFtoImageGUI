@@ -1,6 +1,9 @@
 PDFtoImageGUI.py
+
 Requires "pdf2image" - pip3 install pdf2image
+
 Requires "tkinter" - pip3 install tkinter
+
 Additional "img2pdf" - pip3 install img2pdf
 
 PDFtoImageGUI.py is a batch PDF to Image (PNG) Graphical User Interface based on the existing package pdf2image.
